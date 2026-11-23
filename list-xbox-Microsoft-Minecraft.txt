@@ -1,0 +1,29 @@
+# Xbox
+xbox.com
+xboxlive.com
+xboxservices.com
+xboxab.com
+xboxgamepass.com
+gamepass.com
+xboxplayanywhere.com
+xbx.lv
+
+# Microsoft & CDN
+live.com
+microsoft.com
+microsoftonline.com
+msauth.net
+msftauth.net
+windowsupdate.com
+sfx.ms
+msecnd.net
+akamaized.net
+msftconnecttest.com
+msftncsi.com
+
+# Minecraft
+minecraft.net
+minecraftservices.com
+minecraft-services.net
+minecraftrealms.com
+mojang.com
